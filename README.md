@@ -1,6 +1,7 @@
 # Rock-Paper-Scissors
 This app implements Rock-Paper-Scissors game for iPhone users.
 
+The app comes to practice usage of delegates and UIKit module.
 
 # Installation
 1) _Clone_ the GitHub repository
