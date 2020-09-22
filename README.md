@@ -4,6 +4,9 @@ This app implements Rock-Paper-Scissors game for iPhone users.
 
 # Installation
 1) _Clone_ the GitHub repository
+
+`$ git clone https://github.com/BinyaminAlfassi/Rock-Paper-Scissors.git`
+
 2) Open project using _XCode_
 
 # Usage
